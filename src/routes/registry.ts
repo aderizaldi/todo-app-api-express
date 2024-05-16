@@ -1,7 +1,9 @@
 import ExampleRoutes from "./Example";
+import TodoRoutes from "./Todo";
 
 const RoutesRegistry = {
-    ExampleRoutes
+  ExampleRoutes,
+  TodoRoutes,
 };
 
 export default RoutesRegistry;

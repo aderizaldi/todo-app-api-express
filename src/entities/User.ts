@@ -1,5 +1,5 @@
-export interface UserJWTDAO {
-    id:string 
+export interface UserJWTDTO {
+    id:number 
     email:string
     fullName:string 
     role:string
